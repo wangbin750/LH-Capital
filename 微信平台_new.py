@@ -15,7 +15,7 @@ import xlwt
 from xlutils.copy import copy
 w.start()
 
-date = u'20170210' #上周五的日期
+date = u'20170217' #上周五的日期
 lh1_swith = 1
 zd1_swith = 1
 cz1_swith = 1
